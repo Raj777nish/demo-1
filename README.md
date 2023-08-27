@@ -1,3 +1,3 @@
 # demo-1
-Just a demo to show
+Just a demo to show.
 Author - Rajnish
